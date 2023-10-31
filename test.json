@@ -1,0 +1,38 @@
+[
+    {
+        "id": "143",
+        "name": "Jamila",
+        "age": "21",
+        "city": "Banglore"
+    },
+    {
+        "id": "101",
+        "name": "Rohan",
+        "age": "16",
+        "city": "Mumbai"
+    },
+    {
+        "id": "101",
+        "name": "Rohan",
+        "age": "16",
+        "city": "Mumbai"
+    },
+    {
+        "id": "102",
+        "name": "Mahesh",
+        "age": "22",
+        "city": "Delhi"
+    },
+    {
+        "id": "103",
+        "name": "Sharukh",
+        "age": "30",
+        "city": "Chennai"
+    },
+    {
+        "id": "107",
+        "name": "Hritik",
+        "age": "21",
+        "city": "New York"
+    }
+]
